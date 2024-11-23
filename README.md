@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Ariel Randis <img src="https://img1.picmix.com/output/stamp/normal/2/0/6/8/2468602_f57a1.gif" width="120" alt="gif animado" /></h1>
+  <h1>👋 Ariel Randis <img src="4171.gif" width="120" alt="gif animado" /></h1>
 </div>
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na [FATEC Mogi das Cruzes](https://www.fatecmogidascruzes.com.br/ads)<br>
@@ -28,3 +28,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+
+---
+
+### 📊 GitHub Stats:
+![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=devari-el&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devari-el&layout=compact&langs_count=8&theme=radical)
